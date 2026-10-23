@@ -23,6 +23,7 @@
     --color-muted-foreground: oklch(0.7 0.015 260);
     --color-border: oklch(0.34 0.012 260);
     --color-primary: oklch(0.65 0.16 262);
+    --color-primary-foreground: oklch(0.2 0.01 260);
   }
 }
 
